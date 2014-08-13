@@ -1,0 +1,167 @@
+# depslib dependency file v1.0
+1385189294 source:e:\(p)unnc zy09528 (131118)\y2\h61icp cn introduction to computer engineering aut1314\c\coursework_131118\souvenir shop\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1384841234 source:e:\(p)unnc zy09528 (131118)\y2\h61icp cn introduction to computer engineering aut1314\c\coursework_131118\souvenir shop\nextcustomer.c
+	<stdlib.h>
+	<stdio.h>
+
+1384843002 source:e:\(p)unnc zy09528 (131118)\y2\h61icp cn introduction to computer engineering aut1314\c\coursework_131118\souvenir shop\purchaseandprint.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
+1385129266 source:e:\(p)unnc zy09528 (131118)\y2\h61icp cn introduction to computer engineering aut1314\c\coursework_131118\souvenir shop\stockfilecreation.c
+	<stdlib.h>
+	<stdio.h>
+
+1385129576 source:e:\(p)unnc zy09528 (131118)\y2\h61icp cn introduction to computer engineering aut1314\c\coursework_131118\souvenir shop\displaywelcome.c
+	<stdlib.h>
+	<stdio.h>
+
+1384823834 source:e:\(p)unnc zy09528 (131118)\y2\h61icp cn introduction to computer engineering aut1314\c\coursework_131118\souvenir shop\vaildatef.c
+	<stdlib.h>
+	<stdio.h>
+
+1385129636 source:e:\(p)unnc zy09528 (131118)\y2\h61icp cn introduction to computer engineering aut1314\c\coursework_131118\souvenir shop\printrecept.c
+	<stdlib.h>
+	<stdio.h>
+
+1384842974 source:e:\(p)unnc zy09528 (131118)\y2\h61icp cn introduction to computer engineering aut1314\c\coursework_131118\souvenir shop\buy.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
+1385167270 source:e:\(p)unnc zy09528 (131118)\y2\h61icp cn introduction to computer engineering aut1314\c\coursework_131118\souvenir shop\change.c
+	<stdlib.h>
+	<stdio.h>
+
+1384842974 source:h:\(p)unnc zy09528 (131118)\y2\h61icp cn introduction to computer engineering aut1314\c\coursework_131118\souvenir shop\buy.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
+1385129086 source:h:\(p)unnc zy09528 (131118)\y2\h61icp cn introduction to computer engineering aut1314\c\coursework_131118\souvenir shop\change.c
+	<stdlib.h>
+	<stdio.h>
+
+1385129576 source:h:\(p)unnc zy09528 (131118)\y2\h61icp cn introduction to computer engineering aut1314\c\coursework_131118\souvenir shop\displaywelcome.c
+	<stdlib.h>
+	<stdio.h>
+
+1384839966 source:h:\(p)unnc zy09528 (131118)\y2\h61icp cn introduction to computer engineering aut1314\c\coursework_131118\souvenir shop\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1384841234 source:h:\(p)unnc zy09528 (131118)\y2\h61icp cn introduction to computer engineering aut1314\c\coursework_131118\souvenir shop\nextcustomer.c
+	<stdlib.h>
+	<stdio.h>
+
+1384842974 source:h:\(p)unnc zy09528 (131118)\y2\h61icp cn introduction to computer engineering aut1314\c\coursework_131118\souvenir shop\printrecept.c
+	<stdlib.h>
+	<stdio.h>
+
+1384843002 source:h:\(p)unnc zy09528 (131118)\y2\h61icp cn introduction to computer engineering aut1314\c\coursework_131118\souvenir shop\purchaseandprint.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
+1385129266 source:h:\(p)unnc zy09528 (131118)\y2\h61icp cn introduction to computer engineering aut1314\c\coursework_131118\souvenir shop\stockfilecreation.c
+	<stdlib.h>
+	<stdio.h>
+
+1384842974 source:e:\(p)unnc zy09528 (131129)\y2\h61icp cn introduction to computer engineering aut1314\c\coursework_131118\souvenir shop\buy.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
+1385167270 source:e:\(p)unnc zy09528 (131129)\y2\h61icp cn introduction to computer engineering aut1314\c\coursework_131118\souvenir shop\change.c
+	<stdlib.h>
+	<stdio.h>
+
+1385129576 source:e:\(p)unnc zy09528 (131129)\y2\h61icp cn introduction to computer engineering aut1314\c\coursework_131118\souvenir shop\displaywelcome.c
+	<stdlib.h>
+	<stdio.h>
+
+1385882720 source:e:\(p)unnc zy09528 (131129)\y2\h61icp cn introduction to computer engineering aut1314\c\coursework_131118\souvenir shop\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stockFileCreation.h>
+	<displayWelcome.h>
+	<purchaseAndPrint.h>
+
+1384841234 source:e:\(p)unnc zy09528 (131129)\y2\h61icp cn introduction to computer engineering aut1314\c\coursework_131118\souvenir shop\nextcustomer.c
+	<stdlib.h>
+	<stdio.h>
+
+1385129636 source:e:\(p)unnc zy09528 (131129)\y2\h61icp cn introduction to computer engineering aut1314\c\coursework_131118\souvenir shop\printrecept.c
+	<stdlib.h>
+	<stdio.h>
+
+1384843002 source:e:\(p)unnc zy09528 (131129)\y2\h61icp cn introduction to computer engineering aut1314\c\coursework_131118\souvenir shop\purchaseandprint.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
+1385129266 source:e:\(p)unnc zy09528 (131129)\y2\h61icp cn introduction to computer engineering aut1314\c\coursework_131118\souvenir shop\stockfilecreation.c
+	<stdlib.h>
+	<stdio.h>
+
+1385882424 e:\(p)unnc zy09528 (131129)\y2\h61icp cn introduction to computer engineering aut1314\c\coursework_131118\souvenir shop\stockfilecreation.h
+
+1385882524 e:\(p)unnc zy09528 (131129)\y2\h61icp cn introduction to computer engineering aut1314\c\coursework_131118\souvenir shop\displaywelcome.h
+
+1385882694 e:\(p)unnc zy09528 (131129)\y2\h61icp cn introduction to computer engineering aut1314\c\coursework_131118\souvenir shop\purchaseandprint.h
+
+1384842974 source:h:\(p)unnc zy09528 (131216)\y2\h61icp cn introduction to computer engineering aut1314\c\coursework_131118\souvenir shop\buy.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
+1385167270 source:h:\(p)unnc zy09528 (131216)\y2\h61icp cn introduction to computer engineering aut1314\c\coursework_131118\souvenir shop\change.c
+	<stdlib.h>
+	<stdio.h>
+
+1384841234 source:h:\(p)unnc zy09528 (131216)\y2\h61icp cn introduction to computer engineering aut1314\c\coursework_131118\souvenir shop\nextcustomer.c
+	<stdlib.h>
+	<stdio.h>
+
+1385129266 source:h:\(p)unnc zy09528 (131216)\y2\h61icp cn introduction to computer engineering aut1314\c\coursework_131118\souvenir shop\stockfilecreation.c
+	<stdlib.h>
+	<stdio.h>
+
+1385886086 source:h:\(p)unnc zy09528 (131216)\y2\h61icp cn introduction to computer engineering aut1314\c\coursework_131118\souvenir shop\displaywelcome.c
+	<stdlib.h>
+	<stdio.h>
+
+1385884338 source:h:\(p)unnc zy09528 (131216)\y2\h61icp cn introduction to computer engineering aut1314\c\coursework_131118\souvenir shop\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stockFileCreation.h>
+	<displayWelcome.h>
+	<purchaseAndPrint.h>
+
+1385882424 h:\(p)unnc zy09528 (131216)\y2\h61icp cn introduction to computer engineering aut1314\c\coursework_131118\souvenir shop\stockfilecreation.h
+
+1385882524 h:\(p)unnc zy09528 (131216)\y2\h61icp cn introduction to computer engineering aut1314\c\coursework_131118\souvenir shop\displaywelcome.h
+
+1385882694 h:\(p)unnc zy09528 (131216)\y2\h61icp cn introduction to computer engineering aut1314\c\coursework_131118\souvenir shop\purchaseandprint.h
+
+1385884338 source:h:\(p)unnc zy09528 (131216)\y2\h61icp cn introduction to computer engineering aut1314\c\coursework_131118\souvenir shop\purchaseandprint.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<buy.h>
+	<printRecept.h>
+	<change.h>
+	<nextCustomer.h>
+
+1385882914 h:\(p)unnc zy09528 (131216)\y2\h61icp cn introduction to computer engineering aut1314\c\coursework_131118\souvenir shop\buy.h
+
+1385883068 h:\(p)unnc zy09528 (131216)\y2\h61icp cn introduction to computer engineering aut1314\c\coursework_131118\souvenir shop\printrecept.h
+
+1385883150 h:\(p)unnc zy09528 (131216)\y2\h61icp cn introduction to computer engineering aut1314\c\coursework_131118\souvenir shop\change.h
+
+1385883234 h:\(p)unnc zy09528 (131216)\y2\h61icp cn introduction to computer engineering aut1314\c\coursework_131118\souvenir shop\nextcustomer.h
+
