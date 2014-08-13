@@ -5,4 +5,7 @@ computer engineering.
 university souvenir shop, the system could register all the income of the shop
 with detail outgoings of the commodities.
 
+	FYI: This project was originally accomplished with the software 
+codeblocks, therefore using the software is recommanded when re-editing.
+
 	
